@@ -1,0 +1,4 @@
+colorama
+google-genai
+pytest
+matplotlib

@@ -1,0 +1,9 @@
+config.txt
+*.db
+*.log
+*.png
+*.csv
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
